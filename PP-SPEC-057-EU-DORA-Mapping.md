@@ -130,9 +130,9 @@ DORA and its delegated and implementing regulations are public law of the Europe
 
 Only the versions published in the Official Journal of the European Union are authentic and legally binding. Consolidated texts on EUR-Lex are documentation tools. Implementation status: DORA applies from 17 January 2025 (Article 64). Amendments to DORA have been proposed by the European Commission as part of its digital simplification initiatives; their adoption status as of October 8, 2026 was not confirmed for this draft and SHOULD be checked on EUR-Lex before use.
 
-EU reuse policy: the European Commission's reuse policy is implemented by Commission Decision 2011/833/EU of 12 December 2011 on the reuse of Commission documents. The Commission states that, unless otherwise indicated, content owned by the EU on its website Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+EU reuse policy: the European Commission's reuse policy is implemented by Commission Decision 2011/833/EU of 12 December 2011 on the reuse of Commission documents. The Commission states that, unless otherwise indicated, content owned by the EU on its website Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
